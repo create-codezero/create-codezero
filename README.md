@@ -51,13 +51,20 @@ I believe understanding technology at every layer—from user interfaces to low-
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=create-codezero&repo=dermatech&theme=tokyonight)](https://github.com/create-codezero/dermatech)
+## 🚀 Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=create-codezero&repo=agriculture-project-QML-sattelite&theme=tokyonight)](https://github.com/create-codezero/3dCustomization)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=create-codezero&repo=blockchain-based-voting-platform&theme=tokyonight)](https://github.com/create-codezero/blockchain-based-voting-platform)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=create-codezero&repo=edubliss.in&theme=tokyonight)](https://github.com/create-codezero/edubliss.in)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=create-codezero&repo=3dCustomization&theme=tokyonight)](https://github.com/create-codezero/3dCustomization)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=create-codezero&repo=hacking-pendrive-batch-scripting&theme=tokyonight)](https://github.com/create-codezero/3dCustomization)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=create-codezero&repo=dermatech&theme=tokyonight)](https://github.com/create-codezero/dermatech)
+
 
 ## 🔭 Current Focus
 
