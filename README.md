@@ -63,7 +63,9 @@ I believe understanding technology at every layer—from user interfaces to low-
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=create-codezero&repo=hacking-pendrive-batch-scripting)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=create-codezero&repo=dermatech&theme=tokyonight)](https://github.com/create-codezero/dermatech)
+<a href="https://github.com/create-codezero/dermatech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=create-codezero&repo=dermatech&theme=tokyonight" />
+</a>
 
 
 ## 🔭 Current Focus
