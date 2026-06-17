@@ -53,7 +53,7 @@ I believe understanding technology at every layer—from user interfaces to low-
 
 ## 🚀 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=create-codezero&repo=agriculture-project-QML-sattelite&theme=tokyonight)](https://github.com/create-codezero/3dCustomization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=create-codezero&repo=agriculture-project-QML-sattelite&theme=tokyonight)](https://github.com/create-codezero/agriculture-project-QML-sattelite)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=create-codezero&repo=blockchain-based-voting-platform&theme=tokyonight)](https://github.com/create-codezero/blockchain-based-voting-platform)
 
@@ -61,7 +61,7 @@ I believe understanding technology at every layer—from user interfaces to low-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=create-codezero&repo=3dCustomization&theme=tokyonight)](https://github.com/create-codezero/3dCustomization)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=create-codezero&repo=hacking-pendrive-batch-scripting&theme=tokyonight)](https://github.com/create-codezero/3dCustomization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=create-codezero&repo=hacking-pendrive-batch-scripting&theme=tokyonight)](https://github.com/create-codezero/hacking-pendrive-batch-scripting)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=create-codezero&repo=dermatech&theme=tokyonight)](https://github.com/create-codezero/dermatech)
 
